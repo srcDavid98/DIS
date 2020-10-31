@@ -1,0 +1,8 @@
+{
+  "DATABASE_HOST" : "localhost",
+  "DATABASE_PORT" : 3306,
+  "DATABASE_USERNAME" : "root",
+  "DATABASE_PASSWORD" : "Redtaigers123",
+  "SCHEMA_NAME" : "dis_exam_David_Amlak"
+
+}
